@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\SumBigNumbers\bin\Debug\SumBigNumbers.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\SumBigNumbers\bin\Debug\SumBigNumbers.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\SumBigNumbers\obj\Debug\SumBigNumbers.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\SumBigNumbers\obj\Debug\SumBigNumbers.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\SumBigNumbers\obj\Debug\SumBigNumbers.pdb

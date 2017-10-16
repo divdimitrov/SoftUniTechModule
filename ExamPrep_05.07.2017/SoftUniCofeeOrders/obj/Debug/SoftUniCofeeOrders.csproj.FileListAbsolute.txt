@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_05.07.2017\SoftUniCofeeOrders\bin\Debug\SoftUniCofeeOrders.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_05.07.2017\SoftUniCofeeOrders\bin\Debug\SoftUniCofeeOrders.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_05.07.2017\SoftUniCofeeOrders\bin\Debug\SoftUniCofeeOrders.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_05.07.2017\SoftUniCofeeOrders\obj\Debug\SoftUniCofeeOrders.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_05.07.2017\SoftUniCofeeOrders\obj\Debug\SoftUniCofeeOrders.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_05.07.2017\SoftUniCofeeOrders\obj\Debug\SoftUniCofeeOrders.pdb

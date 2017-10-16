@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\DictRef\bin\Debug\DictRef.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\DictRef\bin\Debug\DictRef.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\DictRef\bin\Debug\DictRef.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\DictRef\obj\Debug\DictRef.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\DictRef\obj\Debug\DictRef.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\DictRef\obj\Debug\DictRef.csprojResolveAssemblyReference.cache

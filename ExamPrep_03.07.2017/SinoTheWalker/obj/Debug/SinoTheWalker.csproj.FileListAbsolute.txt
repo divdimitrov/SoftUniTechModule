@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_03.07.2017\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_03.07.2017\SinoTheWalker\bin\Debug\SinoTheWalker.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_03.07.2017\SinoTheWalker\bin\Debug\SinoTheWalker.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_03.07.2017\SinoTheWalker\obj\Debug\SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_03.07.2017\SinoTheWalker\obj\Debug\SinoTheWalker.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_03.07.2017\SinoTheWalker\obj\Debug\SinoTheWalker.pdb

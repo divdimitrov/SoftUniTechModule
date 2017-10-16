@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\ImuneSystem\bin\Debug\ImuneSystem.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\ImuneSystem\bin\Debug\ImuneSystem.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\ImuneSystem\bin\Debug\ImuneSystem.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\ImuneSystem\obj\Debug\ImuneSystem.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\ImuneSystem\obj\Debug\ImuneSystem.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\ImuneSystem\obj\Debug\ImuneSystem.csprojResolveAssemblyReference.cache

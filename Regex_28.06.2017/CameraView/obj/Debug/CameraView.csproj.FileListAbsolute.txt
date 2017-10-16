@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\CameraView\bin\Debug\CameraView.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\CameraView\bin\Debug\CameraView.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\CameraView\bin\Debug\CameraView.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\CameraView\obj\Debug\CameraView.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\CameraView\obj\Debug\CameraView.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\CameraView\obj\Debug\CameraView.pdb

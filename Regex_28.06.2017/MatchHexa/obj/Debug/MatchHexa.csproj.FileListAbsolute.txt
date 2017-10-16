@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchHexa\bin\Debug\MatchHexa.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchHexa\bin\Debug\MatchHexa.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchHexa\bin\Debug\MatchHexa.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchHexa\obj\Debug\MatchHexa.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchHexa\obj\Debug\MatchHexa.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchHexa\obj\Debug\MatchHexa.pdb

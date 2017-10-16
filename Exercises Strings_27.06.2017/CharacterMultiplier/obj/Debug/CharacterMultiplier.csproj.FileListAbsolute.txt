@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb

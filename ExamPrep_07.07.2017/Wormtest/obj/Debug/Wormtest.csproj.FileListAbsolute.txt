@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\Wormtest\bin\Debug\Wormtest.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\Wormtest\bin\Debug\Wormtest.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\Wormtest\bin\Debug\Wormtest.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\Wormtest\obj\Debug\Wormtest.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\Wormtest\obj\Debug\Wormtest.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\Wormtest\obj\Debug\Wormtest.pdb

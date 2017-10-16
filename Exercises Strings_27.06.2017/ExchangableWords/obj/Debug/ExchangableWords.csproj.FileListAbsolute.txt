@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\ExchangableWords\bin\Debug\ExchangableWords.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\ExchangableWords\bin\Debug\ExchangableWords.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\ExchangableWords\bin\Debug\ExchangableWords.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\ExchangableWords\obj\Debug\ExchangableWords.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\ExchangableWords\obj\Debug\ExchangableWords.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\ExchangableWords\obj\Debug\ExchangableWords.pdb

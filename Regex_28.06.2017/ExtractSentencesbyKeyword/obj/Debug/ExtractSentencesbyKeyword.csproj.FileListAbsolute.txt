@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\ExtractSentencesbyKeyword\bin\Debug\ExtractSentencesbyKeyword.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\ExtractSentencesbyKeyword\bin\Debug\ExtractSentencesbyKeyword.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\ExtractSentencesbyKeyword\bin\Debug\ExtractSentencesbyKeyword.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\ExtractSentencesbyKeyword\obj\Debug\ExtractSentencesbyKeyword.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\ExtractSentencesbyKeyword\obj\Debug\ExtractSentencesbyKeyword.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\ExtractSentencesbyKeyword\obj\Debug\ExtractSentencesbyKeyword.pdb

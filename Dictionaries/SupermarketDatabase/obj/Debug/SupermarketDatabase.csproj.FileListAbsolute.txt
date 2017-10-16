@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SupermarketDatabase\bin\Debug\SupermarketDatabase.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SupermarketDatabase\bin\Debug\SupermarketDatabase.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SupermarketDatabase\bin\Debug\SupermarketDatabase.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SupermarketDatabase\obj\Debug\SupermarketDatabase.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SupermarketDatabase\obj\Debug\SupermarketDatabase.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SupermarketDatabase\obj\Debug\SupermarketDatabase.pdb

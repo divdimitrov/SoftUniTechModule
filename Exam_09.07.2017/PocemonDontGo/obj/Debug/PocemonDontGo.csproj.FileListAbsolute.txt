@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PocemonDontGo\bin\Debug\PocemonDontGo.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PocemonDontGo\bin\Debug\PocemonDontGo.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PocemonDontGo\bin\Debug\PocemonDontGo.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PocemonDontGo\obj\Debug\PocemonDontGo.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PocemonDontGo\obj\Debug\PocemonDontGo.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PocemonDontGo\obj\Debug\PocemonDontGo.csprojResolveAssemblyReference.cache

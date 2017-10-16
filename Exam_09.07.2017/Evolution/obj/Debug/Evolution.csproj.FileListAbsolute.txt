@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Evolution\bin\Debug\Evolution.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Evolution\bin\Debug\Evolution.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Evolution\bin\Debug\Evolution.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Evolution\obj\Debug\Evolution.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Evolution\obj\Debug\Evolution.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Evolution\obj\Debug\Evolution.csprojResolveAssemblyReference.cache

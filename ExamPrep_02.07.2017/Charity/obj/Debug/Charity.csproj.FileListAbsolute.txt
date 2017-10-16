@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Charity\bin\Debug\Charity.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Charity\bin\Debug\Charity.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Charity\bin\Debug\Charity.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Charity\obj\Debug\Charity.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Charity\obj\Debug\Charity.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Charity\obj\Debug\Charity.pdb

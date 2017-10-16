@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Hideout\bin\Debug\Hideout.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Hideout\bin\Debug\Hideout.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Hideout\bin\Debug\Hideout.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Hideout\obj\Debug\Hideout.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Hideout\obj\Debug\Hideout.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\Hideout\obj\Debug\Hideout.pdb

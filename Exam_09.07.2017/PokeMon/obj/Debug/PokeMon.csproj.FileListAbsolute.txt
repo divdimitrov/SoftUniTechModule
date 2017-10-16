@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PokeMon\bin\Debug\PokeMon.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PokeMon\bin\Debug\PokeMon.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PokeMon\bin\Debug\PokeMon.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PokeMon\obj\Debug\PokeMon.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PokeMon\obj\Debug\PokeMon.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\PokeMon\obj\Debug\PokeMon.pdb

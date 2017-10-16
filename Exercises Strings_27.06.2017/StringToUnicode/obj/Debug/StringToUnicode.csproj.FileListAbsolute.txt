@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\StringToUnicode\bin\Debug\StringToUnicode.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\StringToUnicode\bin\Debug\StringToUnicode.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\StringToUnicode\bin\Debug\StringToUnicode.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\StringToUnicode\obj\Debug\StringToUnicode.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\StringToUnicode\obj\Debug\StringToUnicode.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exercises Strings_27.06.2017\StringToUnicode\obj\Debug\StringToUnicode.pdb

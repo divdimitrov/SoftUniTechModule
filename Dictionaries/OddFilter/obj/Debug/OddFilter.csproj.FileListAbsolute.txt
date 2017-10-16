@@ -1,0 +1,5 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\OddFilter\bin\Debug\OddFilter.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\OddFilter\bin\Debug\OddFilter.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\OddFilter\bin\Debug\OddFilter.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\OddFilter\obj\Debug\OddFilter.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\OddFilter\obj\Debug\OddFilter.pdb

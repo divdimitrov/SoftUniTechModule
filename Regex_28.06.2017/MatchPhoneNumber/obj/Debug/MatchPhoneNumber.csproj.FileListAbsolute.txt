@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Regex_28.06.2017\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

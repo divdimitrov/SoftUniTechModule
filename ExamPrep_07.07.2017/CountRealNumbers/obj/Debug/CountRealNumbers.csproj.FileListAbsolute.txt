@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

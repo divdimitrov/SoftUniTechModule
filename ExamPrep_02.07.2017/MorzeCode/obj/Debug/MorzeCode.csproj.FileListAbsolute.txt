@@ -1,0 +1,5 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\MorzeCode\bin\Debug\MorzeCode.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\MorzeCode\bin\Debug\MorzeCode.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\MorzeCode\bin\Debug\MorzeCode.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\MorzeCode\obj\Debug\MorzeCode.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_02.07.2017\MorzeCode\obj\Debug\MorzeCode.pdb

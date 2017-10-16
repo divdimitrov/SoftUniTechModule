@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_06.07.2017\SweetDesert\bin\Debug\SweetDesert.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_06.07.2017\SweetDesert\bin\Debug\SweetDesert.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_06.07.2017\SweetDesert\bin\Debug\SweetDesert.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_06.07.2017\SweetDesert\obj\Debug\SweetDesert.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_06.07.2017\SweetDesert\obj\Debug\SweetDesert.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_06.07.2017\SweetDesert\obj\Debug\SweetDesert.pdb

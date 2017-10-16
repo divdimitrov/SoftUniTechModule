@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\NetherRealms\bin\Debug\NetherRealms.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\NetherRealms\bin\Debug\NetherRealms.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\NetherRealms\bin\Debug\NetherRealms.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\NetherRealms\obj\Debug\NetherRealms.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\NetherRealms\obj\Debug\NetherRealms.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\NetherRealms\obj\Debug\NetherRealms.pdb

@@ -1,0 +1,5 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\WormIPSum\bin\Debug\WormIPSum.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\WormIPSum\bin\Debug\WormIPSum.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\WormIPSum\bin\Debug\WormIPSum.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\WormIPSum\obj\Debug\WormIPSum.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\WormIPSum\obj\Debug\WormIPSum.pdb

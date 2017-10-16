@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\More Strings and Regular Expressions\Censorship\bin\Debug\Censorship.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\More Strings and Regular Expressions\Censorship\bin\Debug\Censorship.exe
+C:\DENISLAV\Visual Studio 2017\Projects\More Strings and Regular Expressions\Censorship\bin\Debug\Censorship.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\More Strings and Regular Expressions\Censorship\obj\Debug\Censorship.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\More Strings and Regular Expressions\Censorship\obj\Debug\Censorship.exe
+C:\DENISLAV\Visual Studio 2017\Projects\More Strings and Regular Expressions\Censorship\obj\Debug\Censorship.pdb

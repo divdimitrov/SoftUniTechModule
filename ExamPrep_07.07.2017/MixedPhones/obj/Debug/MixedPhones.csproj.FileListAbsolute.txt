@@ -1,0 +1,5 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\MixedPhones\bin\Debug\MixedPhones.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\MixedPhones\bin\Debug\MixedPhones.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\MixedPhones\bin\Debug\MixedPhones.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\MixedPhones\obj\Debug\MixedPhones.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_07.07.2017\MixedPhones\obj\Debug\MixedPhones.pdb

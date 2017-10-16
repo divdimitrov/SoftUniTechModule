@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\TheCoder\bin\Debug\TheCoder.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\TheCoder\bin\Debug\TheCoder.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\TheCoder\bin\Debug\TheCoder.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\TheCoder\obj\Debug\TheCoder.exe
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\TheCoder\obj\Debug\TheCoder.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\ExamPrep_04.07.2017\TheCoder\obj\Debug\TheCoder.csprojResolveAssemblyReference.cache

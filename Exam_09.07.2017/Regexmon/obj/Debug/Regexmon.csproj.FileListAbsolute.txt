@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Regexmon\bin\Debug\Regexmon.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Regexmon\bin\Debug\Regexmon.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Regexmon\bin\Debug\Regexmon.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Regexmon\obj\Debug\Regexmon.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Regexmon\obj\Debug\Regexmon.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Exam_09.07.2017\Regexmon\obj\Debug\Regexmon.pdb

@@ -1,0 +1,6 @@
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SortTimes\bin\Debug\SortTimes.exe.config
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SortTimes\bin\Debug\SortTimes.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SortTimes\bin\Debug\SortTimes.pdb
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SortTimes\obj\Debug\SortTimes.csprojResolveAssemblyReference.cache
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SortTimes\obj\Debug\SortTimes.exe
+C:\DENISLAV\Visual Studio 2017\Projects\Dictionaries\SortTimes\obj\Debug\SortTimes.pdb
